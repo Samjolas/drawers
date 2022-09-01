@@ -41,7 +41,9 @@ Users should be able to:
 - Evaluate the design 
 - write README
 - input all variables 
-
+- started with the in-active desktop view 
+- created the card inside the webpage and used grid to align the img and the content
+- I wrote the HTML code for all the card content
 
 
 ### Built with

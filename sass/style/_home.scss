@@ -1,2 +1,19 @@
 @use 'variables' as a;
 
+.card {
+  max-width: 72rem;
+  width: calc(100% - 2rem);
+  background: a.$color-bg-card;
+  border-radius: 1rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+
+  &__img {
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+  }
+  &__details {
+    grid-column: 2 / span 3;
+    padding: 4rem;
+  }
+}
