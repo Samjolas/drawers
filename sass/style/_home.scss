@@ -1,7 +1,7 @@
 @use 'variables' as a;
 
 .card {
-  max-width: 72rem;
+  max-width: 75rem;
   width: calc(100% - 2rem);
   background: a.$color-bg-card;
   border-radius: 1rem;
@@ -11,9 +11,60 @@
   &__img {
     border-top-left-radius: 1rem;
     border-bottom-left-radius: 1rem;
+    height: 30rem;
+    width: 100%;
   }
   &__details {
     grid-column: 2 / span 3;
     padding: 4rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
   }
+  &__title {
+    font-weight: a.$fw-700;
+    font-size: a.$fs-main;
+    color: a.$color-main;
+  }
+  &__content {
+    font-weight: a.$fw-500;
+    color: a.$color-sub;
+    font-size: a.$fs-sub;
+  }
+  &__profile {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    gap: 1rem;
+    align-items: center;
+  }
+  &__picture {
+    height: 4rem;
+    border-radius: 50%;
+  }
+  &__des {
+    display: grid;
+    font-size: 1.2rem;
+    gap: .2rem;
+  }
+  &__name {
+    font-weight: a.$fw-700;
+    color: a.$color-main;
+    
+  }
+  &__date {
+    font-weight: a.$fw-500;
+  }
+  &__share {
+    height: 1rem;
+    position: relative;
+  }
+  &__share-div {
+    display: flex;
+    height: 2.5rem; width: 2.5rem;
+    background: a.$color-bg;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+  }
+    
 }

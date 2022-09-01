@@ -14,7 +14,6 @@
 
 /* headings whould be Capitalise */ 
 h1, h2, h3, h4, h5, h6 {
-  text-transform: capitalize;
   font-size: inherit;
 }
 
@@ -24,8 +23,8 @@ body {
   font-style: normal;
   font-weight: a.$fw-500;
   text-rendering: optimizeSpeed;
-  line-height: 1.1;
-  letter-spacing: 0.01em;
+  line-height: 1.3;
+  letter-spacing: 0.03em;
   overflow-x: hidden;
   color: a.$color-sub;
   background: a.$color-bg;
