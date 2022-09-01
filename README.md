@@ -44,6 +44,10 @@ Users should be able to:
 - started with the in-active desktop view 
 - created the card inside the webpage and used grid to align the img and the content
 - I wrote the HTML code for all the card content
+- I styled the card 
+- I worked on the responsiveness of the webpage 
+
+
 
 
 ### Built with
