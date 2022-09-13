@@ -29,13 +29,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/Screenshot.png)
+![](images/screenshot.png)
 
 
 ### Links
 
 - Solution URL: [Drawers - GITHUB](https://github.com/Samjolas/drawers)
-- Live Site URL: [Drawers - LIVE](https://samjolas.github.io/drawer)
+- Live Site URL: [Drawers - LIVE](https://samjolas.github.io/drawers)
 
 ## My process
 - Evaluate the design 
