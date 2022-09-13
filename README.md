@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Drawers - GITHUB](https://github.com/Samjolas/drawers)
-- Live Site URL: [Drawers - LIVE](https://samjolas.github.io/drawers)
+- Solution URL: [Drawers - GITHUB](https://samjolas.github.io/drawers)
+- Live Site URL: [Drawers - LIVE](https://github.com/Samjolas/drawers)
 
 ## My process
 - Evaluate the design 
