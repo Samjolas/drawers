@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Furniture - GITHUB](https://github.com/Samjolas/furniture)
-- Live Site URL: [Furniture - LIVE](https://samjolas.github.io/furniture)
+- Solution URL: [Drawers - GITHUB](https://github.com/Samjolas/drawers)
+- Live Site URL: [Drawers - LIVE](https://samjolas.github.io/drawer)
 
 ## My process
 - Evaluate the design 
@@ -46,7 +46,8 @@ Users should be able to:
 - I wrote the HTML code for all the card content
 - I styled the card 
 - I worked on the responsiveness of the webpage 
-
+- I worked on the active share button 
+- I also worked on the responsiveness of the share bar 
 
 
 
@@ -56,6 +57,8 @@ Users should be able to:
 - BEM METHODOLOGY
 - CSS (SASS)
 - Responsive Design
+- CSS GRID
+- CSS flexbox 
 
 ### What I learned
 
